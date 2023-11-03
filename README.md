@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amolrakhA22
+- 👋 Hi, I’m @amolrakhA22.
 - 👀 I’m interested in AI and ML, IoT, Robotics, Codeing
 - 🌱 I’m currently learning Dedicated BE course with specializing in Artificial intelligence & Data science
 - 🎓 Study in SPPU Pune University with Ajeenkya D Y Patil Innovative University 
