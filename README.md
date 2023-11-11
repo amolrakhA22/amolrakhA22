@@ -1,6 +1,6 @@
 <!-- About Me Section -->
 <div align="center">
-  <img src="<a href="https://i.ibb.co/FKMqP5P/20231027-151138.jpg" alt="Amol Rakh" width="200"/>
+   <img src="https://i.postimg.cc/RZKgB9Tb/20231027-151138.jpg" alt="Amol Rakh" width="200"/>
 
   # 👨‍💻 Amol Rakh - Engineering Student
 
@@ -20,17 +20,14 @@
   - [Project 2 Name](https://github.com/your-username/project-2)
 
   ## 🌱 Currently Learning
-  - Machine learning 
+  - Machine learning and Data Science 
 
   ## 📫 Connect with Me
   [![LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amol-rakh-8b8348216/))
-  [![GitHub followers][(https://github.com/amolrakhA22?tab=followers)](https://github.com/your-username)]
+  [![GitHub followers][(https://github.com/amolrakhA22?tab=followers)][(https://github.com/amolrakhA22)]
 
   ## 📧 Contact
   - Email: amolrakh22@gmail.com
-
-  ## 🌐 Portfolio
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
 
   ## 🚀 Let's build the future together!
 </div>
