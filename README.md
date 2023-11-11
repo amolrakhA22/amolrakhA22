@@ -30,4 +30,33 @@
   - Email: amolrakh22@gmail.com
 
   ## 🚀 Let's build the future together!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Engineering Animation</title>
+  <style>
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .gear {
+      width: 100px;
+      height: 100px;
+      border: 10px solid #333;
+      border-top-color: #f00;
+      border-radius: 50%;
+      animation: rotate 3s linear infinite;
+    }
+  </style>
+</head>
+<body>
+  <div align="center">
+    <h1>Engineering Animation</h1>
+    <div class="gear"></div>
+  </div>
+</body>
+</html>
 </div>
