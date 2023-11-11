@@ -1,33 +1,15 @@
-<!-- About Me Section -->
+<!-- Animated GitHub README Info -->
 <div align="center">
-   <img src="https://i.postimg.cc/RZKgB9Tb/20231027-151138.jpg" alt="Amol Rakh" width="200"/>
 
-  # 👨‍💻 Amol Rakh - Engineering Student
+  # 👋 Hi there, I'm [Your Name]!
 
-  Hi there! 👋 I'm a passionate engineering student with a focus on dedicated degree with specialized Branch -Artificial Intelligence & Data Science. I enjoy working on Robotics, DL and ML.
+  I'm a passionate [Your Profession/Interests] based in [Your Location]. I love to [Your Hobbies/Activities].
 
-  ## 🎓 Education
-  - 🏫 Savitribai Phule Pune University, 2024 pursuing 
-  - 📚 Artificial intelligence and Data Science 
+  <!-- Animated Code Block -->
+  <div style="position: relative; overflow: hidden; max-width: 600px; border: 1px solid #ddd; border-radius: 5px; margin: 20px auto;">
+    <img src="https://your-gif-url.com/animated-code-block.gif" alt="Animated Code Block" width="100%">
+  </div>
 
-  ## 🔧 Skills
-  - Programming Languages: Advance Python, C language, C++ and OOP's concept.
-  - Tools and Technologies: Smart scanning attendance system tech...
-  - Problem Solving and Algorithms
+  ## Let's build something amazing together!
 
-  ## 🛠️ Projects
-  - [Project 1 Name](https://github.com/your-username/project-1)
-  - [Project 2 Name](https://github.com/your-username/project-2)
-
-  ## 🌱 Currently Learning
-  - Machine learning and Data Science 
-
-  ## 📫 Connect with Me
-  [!([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amol-rakh-8b8348216/))
-  [![(https://github.com/amolrakhA22?tab=followers)][(https://github.com/amolrakhA22)]
-
-  ## 📧 Contact
-  - Email: amolrakh22@gmail.com
-
-  ## 🚀 Let's build the future together!
 </div>
