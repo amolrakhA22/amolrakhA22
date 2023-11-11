@@ -24,7 +24,7 @@
 
   ## 📫 Connect with Me
   [![LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amol-rakh-8b8348216/))
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+  [![GitHub followers][(https://github.com/amolrakhA22?tab=followers)](https://github.com/your-username)]
 
   ## 📧 Contact
   - Email: amolrakh22@gmail.com
