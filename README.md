@@ -1,6 +1,6 @@
 <!-- About Me Section -->
 <div align="center">
-  <img src="[https://your-image-url.com/your-profile-image.jpg" alt="Your Name" width="200](https://ibb.co/Y3MTrcr)"/>
+  <img src="[https://ibb.co/Y3MTrcr" alt="Amol Rakh" width="200](https://ibb.co/Y3MTrcr"/>
 
   # 👨‍💻 [Your Name] - Engineering Student
 
