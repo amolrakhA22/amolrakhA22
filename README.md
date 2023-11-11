@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @amolrakhA22.
-- 👀 I’m interested in AI and ML, IoT, Robotics, Codeing
-- 🌱 I’m currently learning Dedicated BE course with specializing in Artificial intelligence & Data science
-- 🎓 Study in SPPU Pune University with Ajeenkya D Y Patil Innovative University 
-- 📫 How to reach me : mail - amolrakh22@gmail.com, mob - 8317223569, ms - amolrakh22@outlook.com
+## About Me
 
-<!---
-amolrakhA22/amolrakhA22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there! 👋 I'm [Your Name], and I'm passionate about [Your Interests].
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+
+</div>
+
+### My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### Let's Connect
+
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+
+</div>
+
+<script>
+  console.log("Feel free to add more interactive elements using JavaScript!");
+</script>
