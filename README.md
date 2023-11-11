@@ -1,33 +1,34 @@
-<!-- Header -->
-<div align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="150"/>
-  
-  # Hi, I'm [Your Name] 👋
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social)](https://twitter.com/your-twitter)
-</div>
-
 <!-- About Me Section -->
-## About Me
+<div align="center">
+   <img src="https://i.postimg.cc/RZKgB9Tb/20231027-151138.jpg" alt="Amol Rakh" width="200"/>
 
-Hello! I'm a passionate [Your Profession/Interests] based in [Your Location]. I love to [Your Hobbies/Activities].
+  # 👨‍💻 Amol Rakh - Engineering Student
 
-<!-- Skills Section -->
-## Skills
+  Hi there! 👋 I'm a passionate engineering student with a focus on dedicated degree with specialized Branch -Artificial Intelligence & Data Science. I enjoy working on Robotics, DL and ML.
 
-- **Programming Languages:** JavaScript, Python
-- **Web Technologies:** HTML, CSS, React
-- **Database:** MongoDB
-- **Other:** Git, GitHub Actions
+  ## 🎓 Education
+  - 🏫 Savitribai Phule Pune University, 2024 pursuing 
+  - 📚 Artificial intelligence and Data Science 
 
-<!-- GitHub Stats Section -->
-## GitHub Stats
+  ## 🔧 Skills
+  - Programming Languages: Advance Python, C language, C++ and OOP's concept.
+  - Tools and Technologies: Smart scanning attendance system tech...
+  - Problem Solving and Algorithms
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+  ## 🛠️ Projects
+  - IoT Smart Dustbin (https://github.com/your-username/project-1)
+  - Line Follwer Car (https://github.com/your-username/project-2)
 
-<!-- Let's Connect Section -->
-## Let's Connect
+  ## 🌱 Currently Learning
+  - Machine learning and Data Science 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
+  ## 📫 Connect with Me
+  [!([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amol-rakh-8b8348216/))
+  [![(https://github.com/amolrakhA22?tab=followers)][(https://github.com/amolrakhA22)]
 
+  ## 📧 Contact
+  - Email: amolrakh22@gmail.com
+  - Mob.: 8317223569
+
+  ## 🚀 Let's build the future together!
+</div>
