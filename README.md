@@ -16,8 +16,10 @@
   - Problem Solving and Algorithms
 
   ## 🛠️ Projects
-  - IoT Smart Dustbin (https://github.com/your-username/project-1)
-  - Line Follwer Car (https://github.com/your-username/project-2)
+  - AI Powerd ChatBot
+  - IoT Smart Dustbin
+  - Line Follwer Car
+  - Netflix Movie Recommendation System
 
   ## 🌱 Currently Learning
   - Machine learning and Data Science 
